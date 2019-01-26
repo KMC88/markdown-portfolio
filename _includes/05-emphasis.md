@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my most **awesome** atrributes: 
+* Skilled in the following languages:
+  * Java
+  * PHP
+  * HTML
+  * CSS
